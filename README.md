@@ -1,15 +1,10 @@
 # Scraping Reclame Aqui
 
-
-![C# .Net Core](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-
-
 > O projeto foi desenvolvido para fins acadêmicos, o projeto obtém as reclamações do site <a href="https://www.reclameaqui.com.br/">Reclame Aqui</a> e armazena essas informações
 no banco de dados do <a href="https://firebase.google.com/products/realtime-database">Firebase</a> do Google.
 
 ## 💻 Pré-requisitos
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * Ter instalado em seu computador .net core 3.1 ou superior
 
